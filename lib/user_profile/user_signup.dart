@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:shoes_app/constants/shoes_textstyle.dart';
-import 'package:shoes_app/home/home_screen.dart';
-import 'package:shoes_app/user_profile/user_login.dart';
-import 'package:shoes_app/user_profile/user_signup.dart';
-import 'package:shoes_app/widget/shoes_button.dart';
-import 'package:shoes_app/widget/shoes_textfield.dart';
+import 'package:shoes__app/constants/shoes_textstyle.dart';
+import 'package:shoes__app/user_profile/user_login.dart';
+import 'package:shoes__app/widget/shoes_button.dart';
+import 'package:shoes__app/widget/shoes_textfield.dart';
+
+
+import '../home/home_screen.dart';
 
 
 class SignupPage extends StatefulWidget {
