@@ -1,14 +1,18 @@
-# shoes__app
-A clean and responsive **Shoe Store App UI** built using Flutter.  
-This app showcases a modern, stylish user interface with a search bar, product list, and filter functionality — perfect for beginners looking to practice UI design with Flutter.
+# 👟shoes__app Flutter UI & UX
+A beautifully designed **Flutter Shoes Shopping App** with full UI implementation.  
+This project covers multiple essential screens including splash, authentication, navigation, and product detail flow — ideal for showcasing Flutter UI/UX skills.
 ## 🚀 Features
 
-- Beautiful, minimal shoe store design
-- Search functionality to filter shoes by name
-- Empty state UI for "no item found"
-- Custom `TextFormField` and `CustomContainer` widgets
-- Fully responsive UI for all screen sizes
-- Built using `ListView.builder` and `TextEditingController`
+✅ Splash Screen  
+✅ User Account Selection Screen  
+✅ Login / Signup Screen  
+✅ Bottom Navigation Bar  
+✅ Home Screen with Shoe Listings  
+✅ Navigation Drawer  
+✅ Favourite Screen  
+✅ Add to Cart Functionality  
+✅ Order Detail Screen  
+✅ User Profile Screen  
 
 
 ## Getting Started
@@ -23,3 +27,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+🔗 Connect With Me
+🌐 YouTube: [tirple 9 tech](https://www.youtube.com/channel/UCbX1gZSPdPAwRlIfbBF521Q)
+
+📸 Facebook: https://web.facebook.com/maliktouseefrockss
+
+💼 LinkedIn: [Muhammad Toseef Manzoor](https://www.linkedin.com/in/muhammadtoseef/)
